@@ -13,7 +13,7 @@ A Streamlit demo app that extracts structured data from utility bills stored in 
 ## Project structure
 
 ```
-2526-CT5230 Capstone AI for SW Project/
+
 ├── README.md                    Project overview and setup instructions
 ├── app.py                       Streamlit demo application (UI)
 ├── invoice_pipeline.py          Core extraction pipeline (MCP + Gemini orchestration)
